@@ -61,7 +61,7 @@ function entrar() {
         
         
         setTimeout(() => {
-            window.location.href = 'sistema.html';
+            window.location.href = 'alunos.html';
         }, 1500) 
     }
 
